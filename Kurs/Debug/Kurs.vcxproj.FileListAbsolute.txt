@@ -1,0 +1,11 @@
+C:\Users\KaMo.by Admin\source\repos\Kurs\Kurs\Debug\Kurs.vcxprojAssemblyReference.cache
+C:\Users\KaMo.by Admin\source\repos\Kurs\Kurs\Debug\Kurs.MyForm.resources
+C:\Users\KaMo.by Admin\source\repos\Kurs\Kurs\Debug\Kurs.vcxproj.GenerateResource.cache
+C:\Users\volti\OneDrive\Рабочий стол\Archive\1\Kurs\Kurs\Debug\Kurs.vcxprojAssemblyReference.cache
+C:\Users\volti\OneDrive\Рабочий стол\Archive\1\Kurs\Kurs\Debug\Kurs.MyForm.resources
+C:\Users\volti\OneDrive\Рабочий стол\Archive\1\Kurs\Kurs\Debug\Kurs.vcxproj.GenerateResource.cache
+C:\Users\volti\OneDrive\Рабочий стол\Archive\1\Kurs\Kurs\Debug\Kurs.Spravka.resources
+C:\Users\volti\OneDrive\Рабочий стол\Курсовая работа Сапранков Семён Т892 Вариант 18\Kurs\Kurs\Debug\Kurs.vcxprojAssemblyReference.cache
+C:\Users\volti\OneDrive\Рабочий стол\Курсовая работа Сапранков Семён Т892 Вариант 18\Kurs\Kurs\Debug\Kurs.MyForm.resources
+C:\Users\volti\OneDrive\Рабочий стол\Курсовая работа Сапранков Семён Т892 Вариант 18\Kurs\Kurs\Debug\Kurs.Spravka.resources
+C:\Users\volti\OneDrive\Рабочий стол\Курсовая работа Сапранков Семён Т892 Вариант 18\Kurs\Kurs\Debug\Kurs.vcxproj.GenerateResource.cache
